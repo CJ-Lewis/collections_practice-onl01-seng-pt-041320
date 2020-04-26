@@ -34,5 +34,7 @@ end
 def find_a(letters)
   letters = ["apple", "apartment", "condo", "singer"]
   letters.find_all do |word|
-    word[0] = 
+    word[0] = "a"
+  end
+end
   
