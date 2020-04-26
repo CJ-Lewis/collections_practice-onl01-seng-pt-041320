@@ -37,4 +37,7 @@ def find_a(letters)
     word[0] = "a"
   end
 end
+
+def sum_array(sum)
+  sum = [11, 4, 7, 8, 9, 100, 134]
   
