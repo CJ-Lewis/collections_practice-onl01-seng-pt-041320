@@ -26,4 +26,5 @@ end
 
 def kesha_maker(dollar)
   dollar = ["blake", "ashley", "scott"]
+  dollar[item] do |
   
