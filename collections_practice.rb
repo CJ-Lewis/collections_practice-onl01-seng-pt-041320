@@ -26,5 +26,7 @@ end
 
 def kesha_maker(dollar)
   dollar = ["blake", "ashley", "scott"]
-  dollar[item] do |
+  dollar.each do |item|
+    item[2] = $
+  end
   
