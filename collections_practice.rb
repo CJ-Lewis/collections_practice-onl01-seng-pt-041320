@@ -33,5 +33,6 @@ end
 
 def find_a(letters)
   letters = ["apple", "apartment", "condo", "singer"]
-  letters.
+  letters.find_all do |word|
+    
   
