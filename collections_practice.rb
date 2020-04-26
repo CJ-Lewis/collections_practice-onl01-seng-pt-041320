@@ -42,7 +42,7 @@ def sum_array(math)
   math = [11, 4, 7, 8, 9, 100, 134]
   sum = 0
   math.each do |num|
-    sum += num
+    sum+=num
   end
   num
 end
