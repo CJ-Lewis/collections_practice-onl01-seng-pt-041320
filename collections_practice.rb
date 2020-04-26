@@ -38,6 +38,6 @@ def find_a(letters)
   end
 end
 
-def sum_array(sum)
-  sum = [11, 4, 7, 8, 9, 100, 134]
-  sum 
+def sum_array(math)
+  math = [11, 4, 7, 8, 9, 100, 134]
+  sum = 0
