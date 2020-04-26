@@ -49,4 +49,5 @@ end
 
 def add_s(add)
   add.collect do |word|
-    if 
+    if add[1] == word
+      
