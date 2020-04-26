@@ -48,4 +48,5 @@ def sum_array(math)
 end
 
 def add_s(add)
-  add.collect 
+  add.collect do |word|
+    
