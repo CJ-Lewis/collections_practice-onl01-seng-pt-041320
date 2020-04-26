@@ -33,4 +33,5 @@ end
 
 def find_a(letters)
   letters = ["apple", "apartment", "condo", "singer"]
+  letters.
   
