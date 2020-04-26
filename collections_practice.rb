@@ -49,4 +49,4 @@ end
 
 def add_s(add)
   add.collect do |word|
-    
+    if 
