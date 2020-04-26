@@ -46,3 +46,4 @@ def sum_array(math)
   end
   num
 end
+sum_array(math)
