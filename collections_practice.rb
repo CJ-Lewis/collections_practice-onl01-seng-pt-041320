@@ -43,3 +43,6 @@ def sum_array(math)
   sum = 0
   math.each do |num|
     sum += num
+  end
+  num
+end
