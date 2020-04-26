@@ -53,3 +53,6 @@ def add_s(add)
       word
     else
       word +"s"
+    end
+  end
+end
