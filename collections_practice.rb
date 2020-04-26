@@ -31,5 +31,6 @@ def kesha_maker(dollar)
   end
 end
 
-def 
+def find_a(letters)
+  letters = ["apple", "apartment", "condo", "singer"]
   
