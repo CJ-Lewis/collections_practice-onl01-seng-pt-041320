@@ -52,4 +52,4 @@ def add_s(add)
     if add[1] == word
       word
     else
-      
+      word +"s"
