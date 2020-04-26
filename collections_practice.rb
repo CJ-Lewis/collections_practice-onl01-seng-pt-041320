@@ -32,7 +32,7 @@ def kesha_maker(dollar)
 end
 
 def find_a(letters)
-  letters = ["apple", "orange", "pear", "avis", "arlo", "ascot"]
+  letters = ["apple", "avis", "arlo", "ascot"]
   letters.find_all do |word|
     word[0] = "a"
   end
